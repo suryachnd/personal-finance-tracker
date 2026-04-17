@@ -12,7 +12,7 @@ To get started, create your own copy of the tracker. In Google Sheets, go to **F
 
 ### Google Sheets Link
 
-https://docs.google.com/spreadsheets/d/12CpHyyv11dSVELuWjlYygO8lNE9AkIc6MUTqay74fng/edit?usp=sharing
+[Personal Finance Tracker](https://docs.google.com/spreadsheets/d/12CpHyyv11dSVELuWjlYygO8lNE9AkIc6MUTqay74fng/edit?usp=sharing)
 
 Once you have your copy:
 - Update the **Accounts** sheet with your bank accounts, wallets, and credit cards  
