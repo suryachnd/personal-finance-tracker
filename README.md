@@ -10,6 +10,10 @@ You can use the dashboard to get clear insights into spending behavior and your 
 
 To get started, create your own copy of the tracker. In Google Sheets, go to **File → Make a copy** to save it to your Drive. For Excel, just download the file and open it in your computer.
 
+### Google Sheets Link
+
+https://docs.google.com/spreadsheets/d/12CpHyyv11dSVELuWjlYygO8lNE9AkIc6MUTqay74fng/edit?usp=sharing
+
 Once you have your copy:
 - Update the **Accounts** sheet with your bank accounts, wallets, and credit cards  
 - Customize the **Categories** sheet based on your spending habits  
